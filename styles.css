@@ -1,0 +1,38 @@
+
+header
+h1{
+    background-color: skyblue;
+}
+
+main
+#p=p1
+
+main
+#p=p2
+
+main
+p1 {
+    padding: 50rem, 200rem, 5rem, 2rem
+}
+
+main
+p2 {
+    background-color: magenta;
+}
+
+main
+p1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+main
+p2{
+    font-style: unset;
+}
+
+main
+line-size 4px
+
+
+<link rel="stylesheet" href="http://127.0.0.1:5500/styles.css?_cacheOverride=1698274360415">
+
